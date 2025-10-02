@@ -1,4 +1,4 @@
 role,NetID,LastName,FirstName
 boss,hgao234,Gao,Huajun
 employee,peng228,Peng,Edward
-employee,scao87,Shu,Cao
+employee,scao87,Cao,Shu
